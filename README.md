@@ -1,10 +1,10 @@
 # 42sh
 
 ### Utilisation:
-`
+```
 $ make re
 $ ./42sh
-`
+```
 
 ### Informations sur le projet:
 
