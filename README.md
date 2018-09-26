@@ -1,15 +1,15 @@
 # 42sh
 
-### Utilisation:
+### Use :
 ```
 $ make re
 $ ./42sh
 ```
 
-### Informations sur le projet:
+### Project Informations :
 
-Interpréteur de commandes UNIX.
+42sh is a unix command interpretor.
 
-Suit l'ancienne norme Epitech.
+It had been code with Epitech's standart.
 
-Plus d'informations dans 42sh.pdf.
+More informations in 42sh.pdf.
