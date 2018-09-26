@@ -10,6 +10,6 @@ $ ./42sh
 
 42sh is a unix command interpretor.
 
-It had been code with Epitech's standart.
+It had been coded following Epitech's standart.
 
 More informations in 42sh.pdf.
